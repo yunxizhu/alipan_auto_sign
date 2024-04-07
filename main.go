@@ -11,6 +11,7 @@ func main() {
 	refreshTokens := config.ConfigInstance.RefreshToken
 	bilibiliCookies := config.ConfigInstance.BilibiliCookie
 	jdCookies := config.ConfigInstance.JdCookie
+	/*
 	if refreshTokens != "" {
 		refreshTokenList := strings.Split(refreshTokens, ",")
 		aliCloudDisk := &platform.AliCloudDisk{}
@@ -25,6 +26,7 @@ func main() {
 			bilibili.Run(pushPlusToken, bilibiliCookie)
 		}
 	}
+ */
 	if jdCookies != "" {
 		jdCookiesList := strings.Split(jdCookies, ",")
 		jd := &platform.JD{}
