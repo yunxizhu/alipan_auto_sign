@@ -1,4 +1,4 @@
 pushplus_token: 961af7446c824b709dfe47e19aa4dd86 ## pushplus推送token
 refresh_token: 123456abc ## 阿里云网盘刷新token
 bilibili_cookie: 123456abc ## B站cookie
-jd_cookie: pt_pin=jd_7140420120b17;pt_key=AAJmEfjdADCbzSF4YYoFvM_tisWx7oMCFeuRFKF-QzqY9NE3srER9ktVlhf2guMygSKoPQ7Idqg; ##京东cookie
+jd_cookie: pt_pin=jd_7140420120b17;pt_key=AAJmPsrgADBMLLKwUC5dg9HMYxeo7bdbI3ErK6MzJuxBwe_O0jSC27Xg6GBkGxqw-m4jkRlNlMQ; ##京东cookie
